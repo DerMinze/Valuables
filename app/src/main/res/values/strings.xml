@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Valuables</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="image_description">Description</string>
+
+    <string name="item_name_hint">Item name</string>
+    <string name="item_desription_hint">Item description</string>
+    <string name="item_price_hint">Item price</string>
+
+    <string name="item_name_missing_message">Please enter a name</string>
+    <string name="item_desription_missing_message">Please enter a description</string>
+    <string name="item_price_missing_message">Please enter a price</string>
+
+
+    <string name="picture_select_title">Select action</string>
+    <string-array name="picture_select_options">
+        <item>Pick image from gallery</item>
+        <item>Take picture with camera</item>
+    </string-array>
+</resources>
