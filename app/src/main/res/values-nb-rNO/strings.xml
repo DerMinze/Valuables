@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Verdigjenstander</string>
+    <string name="edit_message">Legg inn en beskjed</string>
+    <string name="button_send">Send</string>
+    <string name="image_description">Beskrivelse</string>
+
+    <string name="item_name_hint">Navn</string>
+    <string name="item_desription_hint">Beskrivelse</string>
+    <string name="item_price_hint">Pris</string>
+
+    <string name="item_name_missing_message">Legg inn et navn</string>
+    <string name="item_desription_missing_message">Legg inn en beskrivelse</string>
+    <string name="item_price_missing_message">Legg inn en pris</string>
+
+    <string name="picture_select_title">Velg Handling</string>
+    <string-array name="picture_select_options">
+        <item>Velg bilde fra galleri</item>
+        <item>Ta bilde med kamera</item>
+    </string-array>
+</resources>
